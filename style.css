@@ -1,5 +1,6 @@
 body{
     display: block;
-    background-image: url("background.jpg");
+    background-image: url("imagem\ fundo.jpg");
     background-size: cover;
+    color: white
 }
