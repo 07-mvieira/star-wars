@@ -1,6 +1,7 @@
 body{
     display: block;
-    background-image: url("imagem\ fundo.jpg");
+    background-image: url("imagem-fundo.jpg");
+    background-attachment: fixed;
     background-size: cover;
-    color: white
+    color: white;
 }
